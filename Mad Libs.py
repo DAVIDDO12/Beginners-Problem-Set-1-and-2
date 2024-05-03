@@ -1,2 +1,7 @@
 name=input("Enter a name:")
-print(
+adjective=input("Enter an adjective:")
+verb=input("Enter a verb:")
+place=input("Enter a place:")
+food=input("Enter a food:")
+vehicle=input("Enter a vehicle:")
+print(name+ " is "+"a "+adjective+ " person "+"who likes "+verb+ " at "+place+ " and "+"eating "+food+" but "+"he "+"cannot "+"drive "+"a "+vehicle)
