@@ -9,3 +9,6 @@ print(Jane)
 Age=int(input("Enter a number:"))
 Days=Age * 365
 print(Days)
+Century=100-Age
+CenturyDays=Century * 365
+print(CenturyDays)
